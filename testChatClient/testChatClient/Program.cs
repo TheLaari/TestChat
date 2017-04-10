@@ -4,7 +4,7 @@ using System.Text;
 using System.Net.Sockets;
 using System.Threading;
 
-namespace WindowsApplication2
+namespace TestChatClient
 {
     public partial class Form1 : Form
     {
